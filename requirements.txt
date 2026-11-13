@@ -3,3 +3,6 @@ fastapi>=0.110
 uvicorn>=0.29
 httpx>=0.27
 pytest>=8.0
+
+# Dispatcher (solution/). Also uses fastapi, uvicorn, httpx from above; SQLite is stdlib.
+tzdata>=2024.1  # IANA time zones for zoneinfo on systems without /usr/share/zoneinfo

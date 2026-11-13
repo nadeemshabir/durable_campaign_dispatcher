@@ -1,9 +1,9 @@
 # Submission
 
 ## Candidate
-- **Name:** _(your name)_
+- **Name:** Nadeem Shabir Mir
 - **Assignment chosen:** B (Workflow): Durable Campaign Dispatcher
-- **Time spent (honest estimate):** _(fill in)_
+- **Time spent :** 7-8 hours, majority times goes in code reviweing
 
 ## How to run
 ```bash
